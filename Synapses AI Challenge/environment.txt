@@ -1,0 +1,12 @@
+# API Keys
+SERPAPI_KEY=300d3cabbc40769e7d7e4a6dc73423424a8c88ea809f6d2cfcbe0185da447324
+
+# Optional: Add OpenAI API key if you have one (for better outreach messages)
+# OPENAI_API_KEY=your_openai_api_key_here
+
+# Database
+DATABASE_URL=sqlite:///./sourcing_agent.db
+
+# Optional: Custom configurations
+MAX_SEARCH_RESULTS=50
+SEARCH_DELAY=2 
