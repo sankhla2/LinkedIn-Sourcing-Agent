@@ -1,0 +1,17 @@
+[
+  {
+    "job_id": "job_2",
+    "candidates_found": 0,
+    "candidates": []
+  },
+  {
+    "job_id": "job_1",
+    "candidates_found": 0,
+    "candidates": []
+  },
+  {
+    "job_id": "job_3",
+    "candidates_found": 0,
+    "candidates": []
+  }
+]
