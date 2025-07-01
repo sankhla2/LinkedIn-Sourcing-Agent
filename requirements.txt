@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+PyPDF2 
+pdfplumber
+pdf2image
+pytesseract
+Pillow
+fastapi
+uvicorn
+python-multipart
+pydantic
+gradio
+ 
